@@ -1,0 +1,102 @@
+body{
+    background-color: #ffffff;
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    margin-top: 70px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 300;
+    color: #ffffff;
+}
+
+a{
+    font-size: 14px;
+}
+
+p {
+    font-size: 14px;
+}
+
+/*NAVBAR AND MAIN SECTION*/
+.centered{
+    text-align: center;
+}
+
+
+
+@media only screen and (min-width: 1000px) {
+    .parallax-bg h1 {
+        font-size: 4.5em;
+        letter-spacing: -2px;
+        margin-bottom: 15px;
+        width: 80%;
+    }
+}
+
+@media only screen and (min-width: 500px) {
+    .parallax-bg h1 {
+        font-size: 1.7em;
+        margin-bottom: 10px;
+    }
+}
+
+
+/*SPONSORS*/
+.sponsors{
+     background-color: #111836;
+ }
+
+.sponsors .col-md-6 .sponsors_img{
+    width: 30%;
+    margin: 40px;
+}
+
+.sponsors .col-md-3 .sponsors_img{
+    width: 60%;
+    margin: 40px;
+}
+
+/*FOOTER*/
+.footer .footer-main{
+    background-color: #111836;
+}
+.footer .сontainer-fluid{
+    background-color: #ffffff;
+}
+.footer .footer_icons{
+    color: #111836;
+    font-size: 30px;
+    margin: 30px;
+}
+
+.footer .footer-main a{
+    color: #ffffff;
+    display: block;
+    margin: 10px;
+}
+.footer .footer-main h5{
+    margin: 10px;
+}
+
+.footer .footer-main p{
+    color: #ffffff;
+    display: block;
+    margin: 10px;
+}
+
+.footer .footer-main .div{
+    margin-right: 50px;
+}
+
+.footer .footer-main .col-md-6{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.image img{
+
+}

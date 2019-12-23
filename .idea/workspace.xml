@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7eae6c7e-6ca3-4384-9368-9f448cafbd4e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1TxyeU6xirbw6LL4xpOGB4QAJ0J" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OS\OSPanel\domains\TottenhamHotspur\admin" />
+      <recent name="D:\OS\OSPanel\domains\TottenhamHotspur\db" />
+      <recent name="D:\OS\OSPanel\domains\TottenhamHotspur" />
+      <recent name="D:\OS\OSPanel\domains\TottenhamHotspur\content" />
+      <recent name="D:\OS\OSPanel\domains\TottenhamHotspur\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eae6c7e-6ca3-4384-9368-9f448cafbd4e" name="Default Changelist" comment="" />
+      <created>1574416136780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574416136780</updated>
+      <workItem from="1574416138466" duration="6301000" />
+      <workItem from="1574445535676" duration="11544000" />
+      <workItem from="1574671934843" duration="3348000" />
+      <workItem from="1574742720507" duration="3809000" />
+      <workItem from="1574759637031" duration="10598000" />
+      <workItem from="1574785329543" duration="6617000" />
+      <workItem from="1574844108441" duration="14432000" />
+      <workItem from="1574918285955" duration="8016000" />
+      <workItem from="1574926504165" duration="601000" />
+      <workItem from="1574953066389" duration="6848000" />
+      <workItem from="1575099632203" duration="11719000" />
+      <workItem from="1575184776898" duration="6580000" />
+      <workItem from="1575208947468" duration="18374000" />
+      <workItem from="1575305540811" duration="17735000" />
+      <workItem from="1575407078714" duration="643000" />
+      <workItem from="1575483079108" duration="16350000" />
+      <workItem from="1575504877695" duration="74000" />
+      <workItem from="1575561783256" duration="17278000" />
+      <workItem from="1575604772464" duration="2806000" />
+      <workItem from="1575719880060" duration="2037000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
